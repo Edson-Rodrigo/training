@@ -1,3 +1,5 @@
 Apples
 Bananas
 Pear
+Grapes
+Watermelon
