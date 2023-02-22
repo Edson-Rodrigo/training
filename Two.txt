@@ -3,3 +3,5 @@ Bananas
 Pear
 Grapes
 Watermelon
+Peach
+Guva
